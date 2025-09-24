@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "fdd2084e-a2d6-490c-80da-ee7b944b307a",
+		"name": "rafael_takano_dr3_at",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28073933",
+		"_collection_link": "https://testetest-4495.postman.co/workspace/testetest-Workspace~fba8668e-b379-4585-99e8-189527a13a2a/collection/28073933-fdd2084e-a2d6-490c-80da-ee7b944b307a?action=share&source=collection_link&creator=28073933"
+	},
+	"item": [
+		{
+			"name": "hello",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:7000/hello",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7000",
+					"path": [
+						"hello"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
